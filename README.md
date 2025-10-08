@@ -7,4 +7,4 @@
 # Python_爬蟲
 執行 爬蟲/main.py
 # 更多作品(含Unity)
-<img width="565" height="564" alt="GoogleDrive作品集" src="https://github.com/user-attachments/assets/536f336b-5507-426a-9fa6-17488140a3d5" />
+<img width="256" height="256" alt="GoogleDrive作品集" src="https://github.com/user-attachments/assets/536f336b-5507-426a-9fa6-17488140a3d5" />
