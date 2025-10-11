@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+DemoJunit,org.example,TetrisGame.new ActionListener() {...},10,0,0,0,3,0,2,0,2,0
+DemoJunit,org.example,TetrisGame.new KeyAdapter() {...},11,0,0,0,3,0,2,0,2,0
+DemoJunit,org.example,TetrisGame.TetrominoType,832,0,0,0,12,0,3,0,3,0
+DemoJunit,org.example,TetrisGame,967,0,96,0,236,0,80,0,28,0
+DemoJunit,org.example,ScoreManager,0,99,0,2,0,24,0,11,0,10
+DemoJunit,org.example,TetrisGame.Tetromino,118,0,0,0,31,0,13,0,13,0
+DemoJunit,org.example,TetrisGame.PreviewPanel,107,0,8,0,17,0,6,0,2,0
+DemoJunit,org.example,TetrisGame.TetrisBoard,440,0,56,0,78,0,36,0,8,0
